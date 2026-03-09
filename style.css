@@ -47,24 +47,6 @@ strong {
   float: right;
 }
 
-.static {
-  position: static;
-}
 
-.relative {
-  position: relative;
-  Top: 20px;
-}
-
-.sticky {
-  position: sticky;
-  top: 50px;
-}
-
-.fixed {
-  position: fixed;
-  top: 300px;
-  z-index: 10;
-}
 
 
